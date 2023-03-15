@@ -1,0 +1,1 @@
+INSERT INTO `Nutritionist` VALUES (1,'Pablo Moreno Garcia-Espina','Deporte'),(2,'Susana Rocio Fernandez Giaccomassi','Descenso'),(3,'Ismael Navas Delgado','Deporte'),(4,'Antonio Rodriguez Horcas','Ascenso'),(5,'Cecilia Gonzalez Perez','Vegetarianismo'),(6,'Pablo Daniel Bouzon','Descenso'),(7,'Maria Ines Paez Bueno','Intolerancias');
