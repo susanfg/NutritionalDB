@@ -22,3 +22,6 @@ WHERE NutritionalDB.Food.Protein > (
     SELECT AVG(NutritionalDB.Food.Protein) 
     FROM NutritionalDB.Food
 );
+
+SELECT NutritionalDB.f.Name FROM NutritionalDB.Food f JOIN NutritionalDB.TypeOfFood t ON f.TypeOfFood = t.Type
+WHERE t.Origin = 'animal' AND (f.Protein > 15 OR f.Iron > 5);
