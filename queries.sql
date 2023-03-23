@@ -1,4 +1,5 @@
-SELECT NutritionalDB.Food.Name FROM NutritionalDB.Food WHERE Food.Protein > 20;
+SELECT NutritionalDB.Food.Name, NutritionalDB.Food.Protein
+FROM NutritionalDB.Food JOIN NutritionalDB.TypeOfFood ON Food.TypeOfFood = TypeOfFood.Type WHERE Food.Protein > 20 AND Type = 'meat';
 
 SELECT NutritionalDB.Patient.Name FROM NutritionalDB.Patient JOIN NutritionalDB.Nutritionist 
 ON Patient.Doctor = Nutritionist.idNutritionist WHERE Nutritionist.FullName = 'Pablo Moreno Garcia-Espina';
