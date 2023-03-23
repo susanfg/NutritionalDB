@@ -21,3 +21,15 @@ WHERE NutritionalDB.Food.Protein > (
     SELECT AVG(NutritionalDB.Food.Protein) 
     FROM NutritionalDB.Food
 );
+
+SELECT NutritionalDB.Food.Name, NutritionalDB.Food.Protein
+FROM NutritionalDB.Food JOIN NutritionalDB.TypeOfFood ON Food.TypeOfFood = TypeOfFood.Type WHERE Food.Protein > 20 and Type = 'meat' ;
+
+SELECT NutritionalDB.Diet.Description 
+FROM NutritionalDB.Diet JOIN NutritionalDB.Nutritionist 
+ON Diet.Creator = Nutritionist.idNutritionist 
+WHERE Nutritionist.FullName = 'Susana Rocio Fernandez Giaccomassi';
+
+
+
+
