@@ -1,5 +1,3 @@
-CREATE DATABASE  IF NOT EXISTS `NutritionalDB` /*!40100 DEFAULT CHARACTER SET utf8mb3 */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `NutritionalDB`;
 -- MySQL dump 10.13  Distrib 8.0.30, for macos12 (x86_64)
 --
 -- Host: 127.0.0.1    Database: NutritionalDB
@@ -67,6 +65,9 @@ CREATE TABLE `Food` (
   `TypeOfFood` varchar(100) NOT NULL,
   PRIMARY KEY (`idFood`),
   KEY `fk_Food_TypeOfFood1_idx` (`TypeOfFood`),
+  KEY `Name_Kcal` (`Name`,`Kcal`),
+  KEY `Protein_Name` (`Protein`,`Name`),
+  KEY `Protiron` (`Protein`,`Iron`),
   CONSTRAINT `fk_Food_TypeOfFood1` FOREIGN KEY (`TypeOfFood`) REFERENCES `TypeOfFood` (`Type`)
 ) ENGINE=InnoDB AUTO_INCREMENT=234 DEFAULT CHARSET=utf8mb3;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -120,7 +121,8 @@ CREATE TABLE `Nutritionist` (
   `idNutritionist` int NOT NULL AUTO_INCREMENT,
   `FullName` varchar(200) DEFAULT NULL,
   `Speciality` varchar(70) DEFAULT NULL,
-  PRIMARY KEY (`idNutritionist`)
+  PRIMARY KEY (`idNutritionist`),
+  KEY `Full_Name` (`FullName`)
 ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb3;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -156,6 +158,7 @@ CREATE TABLE `Patient` (
   PRIMARY KEY (`DNI`),
   KEY `fk_Patient_Nutricionist1_idx` (`Doctor`),
   KEY `fk_Patient_Diet1_idx` (`CurrentDiet`),
+  KEY `Name` (`Name`),
   CONSTRAINT `fk_Patient_Diet1` FOREIGN KEY (`CurrentDiet`) REFERENCES `Diet` (`idDiet`),
   CONSTRAINT `fk_Patient_Nutricionist1` FOREIGN KEY (`Doctor`) REFERENCES `Nutritionist` (`idNutritionist`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
@@ -204,4 +207,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-15 23:23:20
+-- Dump completed on 2023-03-23 23:42:58
