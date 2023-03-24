@@ -23,5 +23,10 @@ WHERE NutritionalDB.Food.Protein > (
     FROM NutritionalDB.Food
 );
 
+<<<<<<< HEAD
 SELECT NutritionalDB.f.Name FROM NutritionalDB.Food f JOIN NutritionalDB.TypeOfFood t ON f.TypeOfFood = t.Type
 WHERE t.Origin = 'animal' AND (f.Protein > 15 OR f.Iron > 5);
+=======
+SELECT NutritionalDB.Diet.Description
+FROM NutritionalDB.Diet JOIN NutritionalDB.Patient
+>>>>>>> 658bd2dd57c98f54717962cd1c528489a3382c14
