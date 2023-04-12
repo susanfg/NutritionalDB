@@ -1,0 +1,8 @@
+[{"Type":"cereals and bread", "Origin":"processed"},
+ {"Type":"chocolates and sweets", "Origin":"processed"},
+ {"Type":"dairy", "Origin":"animal"},
+ {"Type":"fish", "Origin":"animal"},
+ {"Type":"fruits", "Origin":"vegetal"},
+ {"Type":"legumes", "Origin":"vegetal"},
+ {"Type":"meat", "Origin":"animal"},
+ {"Type":"vegetables", "Origin":"vegetal"}]

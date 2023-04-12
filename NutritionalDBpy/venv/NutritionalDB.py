@@ -95,7 +95,7 @@ class NutritionalQuerys(object):
 
 
 if __name__ == '__main__':
-    password = 'YourPassword'
+    password = 'Pappo2012'
     ndb = NutritionalQuerys('localhost', 'root', password, 'NutritionalDB')
     ndb.gtProtein(20)
     ndb.treatedBy('Pablo Moreno Garcia-Espina')
