@@ -1,7 +1,7 @@
-[{"idNutritionist":1, "FullName":"Pablo Moreno Garcia-Espina", "Speciality":"Deporte"},
- {"idNutritionist":2, "FullName":"Susana Rocio Fernandez Giaccomassi", "Speciality":"Descenso"},
- {"idNutritionist":3, "FullName":"Ismael Navas Delgado", "Speciality":"Deporte"},
- {"idNutritionist":4, "FullName":"Antonio Rodriguez Horcas", "Speciality":"Ascenso"},
- {"idNutritionist":5, "FullName":"Cecilia Gonzalez Perez", "Speciality":"Vegetarianismo"},
- {"idNutritionist":6, "FullName":"Pablo Daniel Bouzon", "Speciality":"Descenso"},
- {"idNutritionist":7, "FullName":"Maria Ines Paez Bueno", "Speciality":"Intolerancias"}]
+[{"_id":1, "FullName":"Pablo Moreno Garcia-Espina", "Speciality":"Deporte"},
+ {"_id":2, "FullName":"Susana Rocio Fernandez Giaccomassi", "Speciality":"Descenso"},
+ {"_id":3, "FullName":"Ismael Navas Delgado", "Speciality":"Deporte"},
+ {"_id":4, "FullName":"Antonio Rodriguez Horcas", "Speciality":"Ascenso"},
+ {"_id":5, "FullName":"Cecilia Gonzalez Perez", "Speciality":"Vegetarianismo"},
+ {"_id":6, "FullName":"Pablo Daniel Bouzon", "Speciality":"Descenso"},
+ {"_id":7, "FullName":"Maria Ines Paez Bueno", "Speciality":"Intolerancias"}]
