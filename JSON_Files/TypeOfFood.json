@@ -1,8 +1,8 @@
-[{"Type":"cereals and bread", "Origin":"processed"},
- {"Type":"chocolates and sweets", "Origin":"processed"},
- {"Type":"dairy", "Origin":"animal"},
- {"Type":"fish", "Origin":"animal"},
- {"Type":"fruits", "Origin":"vegetal"},
- {"Type":"legumes", "Origin":"vegetal"},
- {"Type":"meat", "Origin":"animal"},
- {"Type":"vegetables", "Origin":"vegetal"}]
+[{"_id":"cereals and bread", "Origin":"processed"},
+ {"_id":"chocolates and sweets", "Origin":"processed"},
+ {"_id":"dairy", "Origin":"animal"},
+ {"_id":"fish", "Origin":"animal"},
+ {"_id":"fruits", "Origin":"vegetal"},
+ {"_id":"legumes", "Origin":"vegetal"},
+ {"_id":"meat", "Origin":"animal"},
+ {"_id":"vegetables", "Origin":"vegetal"}]
