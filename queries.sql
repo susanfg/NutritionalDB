@@ -22,6 +22,3 @@ WHERE NutritionalDB.Food.Protein > (
     SELECT AVG(NutritionalDB.Food.Protein) 
     FROM NutritionalDB.Food
 );
-
-SELECT NutritionalDB.Diet.Description
-FROM NutritionalDB.Diet JOIN NutritionalDB.Patient

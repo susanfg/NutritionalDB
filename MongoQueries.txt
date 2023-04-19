@@ -1,0 +1,105 @@
+# 1st Query
+
+[
+  {
+    $match: {
+      Protein: {
+        $gt: 20,
+      },
+    },
+  },
+  {
+    $match: {
+      TypeOfFood: "meat",
+    },
+  },
+  {
+    $project: {
+      _id: 0,
+      Name: 1,
+      Protein: 1,
+    },
+  },
+]
+
+# 2nd Query
+
+[
+  {
+    $lookup: {
+      from: "Patient",
+      localField: "_id",
+      foreignField: "Doctor",
+      as: "patients",
+    },
+  },
+  {
+    $match: {
+      FullName: "Pablo Moreno Garcia-Espina",
+    },
+  },
+  {
+    $project: {
+      _id: 0,
+      "patients.Name": 1,
+    },
+  },
+]
+
+# 3rd Query
+
+[
+  {
+    $lookup: {
+      from: "Nutritionist",
+      localField: "Creator",
+      foreignField: "_id",
+      as: "nutritionist",
+    },
+  },
+  {
+    $match: {
+      "nutritionist.FullName":
+        "Susana Rocio Fernandez Giaccomassi",
+    },
+  },
+  {
+    $project: {
+      _id: 0,
+      Description: 1,
+    },
+  },
+]
+# 4th Query
+
+client = MongoClient('mongodb+srv://susanfg:bS23eImV0TRer7Xe@cluster0.f34dy4x.mongodb.net/test')
+result = client['NutritionalDB']['Diet'].aggregate([
+    {
+        '$lookup': {
+            'from': 'Nutritionist', 
+            'localField': 'Creator', 
+            'foreignField': '_id', 
+            'as': 'nutritionistDoctor'
+        }
+    }, {
+        '$lookup': {
+            'from': 'ListOfFood', 
+            'localField': '_id', 
+            'foreignField': 'idDiet', 
+            'as': 'foods'
+        }
+    }, {
+        '$match': {
+            'foods': {
+                '$gt': {
+                    '$size': 10
+                }
+            }
+        }
+    }, {
+        '$project': {
+            'Diets with more than ten foods': '$Description', 
+            'Creator': '$nutritionistDoctor.FullName'
+        }
+    }
+])
