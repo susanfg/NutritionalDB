@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<_id type="str">cereals and bread</_id>
+		<Origin type="str">processed</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">chocolates and sweets</_id>
+		<Origin type="str">processed</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">dairy</_id>
+		<Origin type="str">animal</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">fish</_id>
+		<Origin type="str">animal</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">fruits</_id>
+		<Origin type="str">vegetal</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">legumes</_id>
+		<Origin type="str">vegetal</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">meat</_id>
+		<Origin type="str">animal</Origin>
+	</item>
+	<item type="dict">
+		<_id type="str">vegetables</_id>
+		<Origin type="str">vegetal</Origin>
+	</item>
+</all>

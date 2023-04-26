@@ -1,0 +1,1667 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">1</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">1</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">30</idDiet>
+		<idFood type="int">4</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">5</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">7</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">16</idDiet>
+		<idFood type="int">7</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">7</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">7</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">8</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">9</idDiet>
+		<idFood type="int">8</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">8</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">9</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">9</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">9</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">10</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">57</idDiet>
+		<idFood type="int">10</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">6</idDiet>
+		<idFood type="int">11</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">11</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">11</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">12</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">13</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">57</idDiet>
+		<idFood type="int">13</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">14</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">36</idDiet>
+		<idFood type="int">14</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">16</idDiet>
+		<idFood type="int">15</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">16</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">16</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">16</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">41</idDiet>
+		<idFood type="int">17</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">18</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">19</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">20</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">41</idDiet>
+		<idFood type="int">20</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">21</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">22</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">22</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">22</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">9</idDiet>
+		<idFood type="int">23</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">23</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">36</idDiet>
+		<idFood type="int">23</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">24</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">24</idDiet>
+		<idFood type="int">24</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">42</idDiet>
+		<idFood type="int">24</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">24</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">18</idDiet>
+		<idFood type="int">25</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">27</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">13</idDiet>
+		<idFood type="int">28</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">28</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">28</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">28</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">30</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">31</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">31</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">31</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">30</idDiet>
+		<idFood type="int">31</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">32</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">33</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">31</idDiet>
+		<idFood type="int">33</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">33</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">34</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">34</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">35</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">35</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">36</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">36</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">36</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">37</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">37</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">21</idDiet>
+		<idFood type="int">38</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">38</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">39</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">39</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">41</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">42</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">43</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">44</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">18</idDiet>
+		<idFood type="int">44</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">45</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">11</idDiet>
+		<idFood type="int">46</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">46</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">24</idDiet>
+		<idFood type="int">46</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">46</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">47</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">48</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">49</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">49</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">49</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">50</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">51</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">52</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">9</idDiet>
+		<idFood type="int">53</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">53</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">39</idDiet>
+		<idFood type="int">54</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">54</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">55</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">55</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">39</idDiet>
+		<idFood type="int">55</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">57</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">57</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">6</idDiet>
+		<idFood type="int">59</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">5</idDiet>
+		<idFood type="int">60</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">60</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">61</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">61</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">61</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">43</idDiet>
+		<idFood type="int">61</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">11</idDiet>
+		<idFood type="int">62</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">62</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">62</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">63</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">64</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">43</idDiet>
+		<idFood type="int">64</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">65</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">21</idDiet>
+		<idFood type="int">65</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">65</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">66</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">67</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">67</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">67</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">67</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">68</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">69</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">9</idDiet>
+		<idFood type="int">69</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">69</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">69</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">72</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">32</idDiet>
+		<idFood type="int">72</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">72</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">58</idDiet>
+		<idFood type="int">72</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">73</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">73</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">74</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">74</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">74</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">31</idDiet>
+		<idFood type="int">75</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">75</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">76</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">77</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">77</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">77</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">58</idDiet>
+		<idFood type="int">77</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">79</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">79</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">79</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">5</idDiet>
+		<idFood type="int">80</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">21</idDiet>
+		<idFood type="int">80</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">80</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">36</idDiet>
+		<idFood type="int">80</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">83</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">84</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">84</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">84</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">85</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">86</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">86</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">87</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">87</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">13</idDiet>
+		<idFood type="int">88</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">31</idDiet>
+		<idFood type="int">88</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">88</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">89</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">89</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">9</idDiet>
+		<idFood type="int">91</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">40</idDiet>
+		<idFood type="int">91</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">91</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">92</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">93</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">93</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">93</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">94</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">94</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">94</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">95</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">95</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">97</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">97</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">97</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">97</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">100</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">100</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">13</idDiet>
+		<idFood type="int">102</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">21</idDiet>
+		<idFood type="int">102</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">102</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">43</idDiet>
+		<idFood type="int">103</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">104</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">104</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">40</idDiet>
+		<idFood type="int">104</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">33</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">55</idDiet>
+		<idFood type="int">105</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">53</idDiet>
+		<idFood type="int">106</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">107</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">107</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">107</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">43</idDiet>
+		<idFood type="int">107</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">108</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">108</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">16</idDiet>
+		<idFood type="int">109</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">109</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">109</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">109</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">36</idDiet>
+		<idFood type="int">109</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">111</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">36</idDiet>
+		<idFood type="int">111</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">57</idDiet>
+		<idFood type="int">114</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">115</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">24</idDiet>
+		<idFood type="int">115</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">116</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">117</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">30</idDiet>
+		<idFood type="int">117</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">118</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">119</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">119</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">119</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">121</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">121</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">27</idDiet>
+		<idFood type="int">123</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">124</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">124</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">18</idDiet>
+		<idFood type="int">124</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">124</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">125</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">6</idDiet>
+		<idFood type="int">126</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">33</idDiet>
+		<idFood type="int">126</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">126</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">39</idDiet>
+		<idFood type="int">127</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">128</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">129</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">129</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">130</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">130</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">131</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">131</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">132</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">40</idDiet>
+		<idFood type="int">132</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">132</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">132</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">132</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">59</idDiet>
+		<idFood type="int">137</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">139</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">140</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">11</idDiet>
+		<idFood type="int">141</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">141</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">39</idDiet>
+		<idFood type="int">142</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">142</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">142</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">142</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">142</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">143</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">143</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">143</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">144</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">144</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">144</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">145</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">146</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">146</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">53</idDiet>
+		<idFood type="int">146</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">148</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">149</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">149</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">13</idDiet>
+		<idFood type="int">152</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">153</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">153</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">153</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">154</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">154</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">155</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">156</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">157</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">160</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">160</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">31</idDiet>
+		<idFood type="int">160</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">161</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">161</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">5</idDiet>
+		<idFood type="int">163</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">163</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">163</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">163</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">58</idDiet>
+		<idFood type="int">163</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">165</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">33</idDiet>
+		<idFood type="int">165</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">167</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">18</idDiet>
+		<idFood type="int">168</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">27</idDiet>
+		<idFood type="int">168</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">168</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">59</idDiet>
+		<idFood type="int">170</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">171</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">11</idDiet>
+		<idFood type="int">172</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">173</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">33</idDiet>
+		<idFood type="int">173</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">173</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">174</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">41</idDiet>
+		<idFood type="int">174</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">32</idDiet>
+		<idFood type="int">177</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">177</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">178</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">178</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">27</idDiet>
+		<idFood type="int">178</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">48</idDiet>
+		<idFood type="int">178</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">178</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">179</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">179</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">53</idDiet>
+		<idFood type="int">179</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">180</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">180</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">181</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">181</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">182</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">183</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">37</idDiet>
+		<idFood type="int">184</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">184</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">186</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">187</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">2</idDiet>
+		<idFood type="int">189</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">189</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">189</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">55</idDiet>
+		<idFood type="int">189</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">190</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">190</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">8</idDiet>
+		<idFood type="int">191</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">191</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">30</idDiet>
+		<idFood type="int">191</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">191</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">192</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">192</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">49</idDiet>
+		<idFood type="int">192</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">193</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">39</idDiet>
+		<idFood type="int">194</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">195</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">40</idDiet>
+		<idFood type="int">195</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">57</idDiet>
+		<idFood type="int">195</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">196</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">42</idDiet>
+		<idFood type="int">196</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">197</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">197</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">198</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">30</idDiet>
+		<idFood type="int">198</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">198</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">55</idDiet>
+		<idFood type="int">198</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">199</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">199</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">1</idDiet>
+		<idFood type="int">200</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">200</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">16</idDiet>
+		<idFood type="int">200</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">200</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">53</idDiet>
+		<idFood type="int">200</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">201</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">202</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">59</idDiet>
+		<idFood type="int">202</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">202</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">203</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">204</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">32</idDiet>
+		<idFood type="int">204</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">204</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">54</idDiet>
+		<idFood type="int">204</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">205</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">205</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">206</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">19</idDiet>
+		<idFood type="int">206</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">25</idDiet>
+		<idFood type="int">206</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">3</idDiet>
+		<idFood type="int">207</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">207</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">207</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">207</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">209</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">52</idDiet>
+		<idFood type="int">210</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">44</idDiet>
+		<idFood type="int">211</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">47</idDiet>
+		<idFood type="int">211</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">211</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">11</idDiet>
+		<idFood type="int">212</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">14</idDiet>
+		<idFood type="int">212</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">212</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">42</idDiet>
+		<idFood type="int">212</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">214</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">28</idDiet>
+		<idFood type="int">215</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">38</idDiet>
+		<idFood type="int">215</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">216</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">20</idDiet>
+		<idFood type="int">216</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">29</idDiet>
+		<idFood type="int">216</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">216</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">7</idDiet>
+		<idFood type="int">218</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">218</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">219</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">220</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">42</idDiet>
+		<idFood type="int">221</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">50</idDiet>
+		<idFood type="int">221</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">222</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">26</idDiet>
+		<idFood type="int">222</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">222</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">12</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">13</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">27</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">56</idDiet>
+		<idFood type="int">223</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">34</idDiet>
+		<idFood type="int">224</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">51</idDiet>
+		<idFood type="int">224</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">17</idDiet>
+		<idFood type="int">225</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">33</idDiet>
+		<idFood type="int">225</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">46</idDiet>
+		<idFood type="int">225</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">16</idDiet>
+		<idFood type="int">227</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">22</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">23</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">35</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">42</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">45</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">55</idDiet>
+		<idFood type="int">231</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">4</idDiet>
+		<idFood type="int">232</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">10</idDiet>
+		<idFood type="int">232</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">53</idDiet>
+		<idFood type="int">232</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">60</idDiet>
+		<idFood type="int">232</idFood>
+	</item>
+	<item type="dict">
+		<idDiet type="int">15</idDiet>
+		<idFood type="int">233</idFood>
+	</item>
+</all>
