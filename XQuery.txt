@@ -1,0 +1,19 @@
+for $food in  doc("/db/NutritionalDB/Food.xml")/all/item[TypeOfFood = 'meat']
+where $food/Protein > 20
+return <Food>
+            <Name>{data($food/Name)}</Name>
+            <Protein>{data($food/Protein)}</Protein>
+        </Food>
+
+let $avg-protein := avg(doc("/db/NutritionalDB/Food.xml")/all/item/Protein)
+for $food in  doc("/db/NutritionalDB/Food.xml")/all/item
+where $food/Protein > $avg-protein
+return <Food>
+            <Name>{data($food/Name)}</Name>
+            <Protein>{data($food/Protein)}</Protein>
+       </Food>
+
+for $patient in doc("/db/NutritionalDB/Patient.xml")/all/item
+for $nutritionist in doc("/db/NutritionalDB/Nutritionist.xml")/all/item
+where $patient/Doctor = $nutritionist/_id and $nutritionist/FullName = 'Pablo Moreno Garcia-Espina'
+return data($patient/Name)

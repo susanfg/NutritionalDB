@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
-<all>
-	<item type="dict">
-		<_id type="str">cereals and bread</_id>
-		<Origin type="str">processed</Origin>
-	</item>
+tip
 	<item type="dict">
 		<_id type="str">chocolates and sweets</_id>
 		<Origin type="str">processed</Origin>
