@@ -32,9 +32,6 @@
 		<_id type="str">vegetables</_id>
 		<Origin type="str">vegetal</Origin>
 	</item>
-</all>
-<?xml version="1.0" ?>
-<all>
 	<item type="dict">
 		<_id type="str">cereals and bread</_id>
 		<Origin type="str">processed</Origin>

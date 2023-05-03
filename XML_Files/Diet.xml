@@ -297,12 +297,9 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
-</all>
-<?xml version="1.0" ?>
-<all>
 	<item type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
@@ -600,12 +597,9 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
-</all>
-<?xml version="1.0" ?>
-<all>
 	<item type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
@@ -903,7 +897,7 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
 </all>
