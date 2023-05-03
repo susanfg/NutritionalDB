@@ -297,7 +297,7 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
 </all>
@@ -600,7 +600,7 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
 </all>
@@ -903,7 +903,7 @@
 	</item>
 	<item type="dict">
 		<_id type="int">60</_id>
-		<Description type="str">Dieta hipercalórica</Description>
+		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
 	</item>
 </all>
