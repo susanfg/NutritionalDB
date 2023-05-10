@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<all>
-	<item type="dict">
+<foods>
+	<food type="dict">
 		<_id type="int">1</_id>
 		<Name type="str">Asparagus</Name>
 		<Kcal type="int">20</Kcal>
@@ -14,8 +14,8 @@
 		<Calcium type="float">24.0</Calcium>
 		<Iron type="float">1.1</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">2</_id>
 		<Name type="str">Bell Pepper</Name>
 		<Kcal type="int">20</Kcal>
@@ -29,8 +29,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">3</_id>
 		<Name type="str">Broccoli</Name>
 		<Kcal type="int">34</Kcal>
@@ -44,8 +44,8 @@
 		<Calcium type="float">47.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">4</_id>
 		<Name type="str">Brussels Sprouts</Name>
 		<Kcal type="int">43</Kcal>
@@ -59,8 +59,8 @@
 		<Calcium type="float">42.0</Calcium>
 		<Iron type="float">1.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">5</_id>
 		<Name type="str">Cabbage</Name>
 		<Kcal type="int">25</Kcal>
@@ -74,8 +74,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">6</_id>
 		<Name type="str">Carrot</Name>
 		<Kcal type="int">41</Kcal>
@@ -89,8 +89,8 @@
 		<Calcium type="float">37.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">7</_id>
 		<Name type="str">Cauliflower</Name>
 		<Kcal type="int">25</Kcal>
@@ -104,8 +104,8 @@
 		<Calcium type="float">22.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">8</_id>
 		<Name type="str">Celery</Name>
 		<Kcal type="int">16</Kcal>
@@ -119,8 +119,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">9</_id>
 		<Name type="str">Corn</Name>
 		<Kcal type="int">96</Kcal>
@@ -134,8 +134,8 @@
 		<Calcium type="float">2.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">10</_id>
 		<Name type="str">Cucumber</Name>
 		<Kcal type="int">15</Kcal>
@@ -149,8 +149,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">11</_id>
 		<Name type="str">Eggplant</Name>
 		<Kcal type="int">25</Kcal>
@@ -164,8 +164,8 @@
 		<Calcium type="float">14.0</Calcium>
 		<Iron type="float">0.6</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">12</_id>
 		<Name type="str">Green Beans</Name>
 		<Kcal type="int">31</Kcal>
@@ -179,8 +179,8 @@
 		<Calcium type="float">37.0</Calcium>
 		<Iron type="float">0.9</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">13</_id>
 		<Name type="str">Kale</Name>
 		<Kcal type="int">49</Kcal>
@@ -194,8 +194,8 @@
 		<Calcium type="float">150.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">14</_id>
 		<Name type="str">Leek</Name>
 		<Kcal type="int">61</Kcal>
@@ -209,8 +209,8 @@
 		<Calcium type="float">59.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">15</_id>
 		<Name type="str">Lettuce</Name>
 		<Kcal type="int">15</Kcal>
@@ -224,8 +224,8 @@
 		<Calcium type="float">33.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">16</_id>
 		<Name type="str">Mushroom</Name>
 		<Kcal type="int">22</Kcal>
@@ -239,8 +239,8 @@
 		<Calcium type="float">3.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">17</_id>
 		<Name type="str">Onion</Name>
 		<Kcal type="int">40</Kcal>
@@ -254,8 +254,8 @@
 		<Calcium type="float">23.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">18</_id>
 		<Name type="str">Parsley</Name>
 		<Kcal type="int">36</Kcal>
@@ -269,8 +269,8 @@
 		<Calcium type="float">138.0</Calcium>
 		<Iron type="float">6.2</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">19</_id>
 		<Name type="str">Peas</Name>
 		<Kcal type="int">81</Kcal>
@@ -284,8 +284,8 @@
 		<Calcium type="float">25.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">20</_id>
 		<Name type="str">Peppers</Name>
 		<Kcal type="int">20</Kcal>
@@ -299,8 +299,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">21</_id>
 		<Name type="str">Pumpkin</Name>
 		<Kcal type="int">26</Kcal>
@@ -314,8 +314,8 @@
 		<Calcium type="float">21.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">22</_id>
 		<Name type="str">Radish</Name>
 		<Kcal type="int">16</Kcal>
@@ -329,8 +329,8 @@
 		<Calcium type="float">25.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">23</_id>
 		<Name type="str">Red cabbage</Name>
 		<Kcal type="int">31</Kcal>
@@ -344,8 +344,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">24</_id>
 		<Name type="str">Romaine lettuce</Name>
 		<Kcal type="int">17</Kcal>
@@ -359,8 +359,8 @@
 		<Calcium type="float">33.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">25</_id>
 		<Name type="str">Spinach</Name>
 		<Kcal type="int">23</Kcal>
@@ -374,8 +374,8 @@
 		<Calcium type="float">99.0</Calcium>
 		<Iron type="float">2.7</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">26</_id>
 		<Name type="str">Squash</Name>
 		<Kcal type="int">20</Kcal>
@@ -389,8 +389,8 @@
 		<Calcium type="float">23.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">27</_id>
 		<Name type="str">Sweet potato</Name>
 		<Kcal type="int">86</Kcal>
@@ -404,8 +404,8 @@
 		<Calcium type="float">30.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">28</_id>
 		<Name type="str">Tomato</Name>
 		<Kcal type="int">18</Kcal>
@@ -419,8 +419,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">29</_id>
 		<Name type="str">Turnip</Name>
 		<Kcal type="int">28</Kcal>
@@ -434,8 +434,8 @@
 		<Calcium type="float">30.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">30</_id>
 		<Name type="str">Watercress</Name>
 		<Kcal type="int">11</Kcal>
@@ -449,8 +449,8 @@
 		<Calcium type="float">120.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">31</_id>
 		<Name type="str">Yam</Name>
 		<Kcal type="int">118</Kcal>
@@ -464,8 +464,8 @@
 		<Calcium type="float">17.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">32</_id>
 		<Name type="str">Zucchini</Name>
 		<Kcal type="int">17</Kcal>
@@ -479,8 +479,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">33</_id>
 		<Name type="str">Pak choi</Name>
 		<Kcal type="int">13</Kcal>
@@ -494,8 +494,8 @@
 		<Calcium type="float">105.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">34</_id>
 		<Name type="str">Parsnip</Name>
 		<Kcal type="int">75</Kcal>
@@ -509,8 +509,8 @@
 		<Calcium type="float">36.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">35</_id>
 		<Name type="str">Peppermint</Name>
 		<Kcal type="int">70</Kcal>
@@ -524,8 +524,8 @@
 		<Calcium type="float">243.0</Calcium>
 		<Iron type="float">1.2</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">36</_id>
 		<Name type="str">Potato</Name>
 		<Kcal type="int">77</Kcal>
@@ -539,8 +539,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">37</_id>
 		<Name type="str">Pumpkin flowers</Name>
 		<Kcal type="int">16</Kcal>
@@ -554,8 +554,8 @@
 		<Calcium type="float">23.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">vegetables</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">38</_id>
 		<Name type="str">Bagel</Name>
 		<Kcal type="int">289</Kcal>
@@ -569,8 +569,8 @@
 		<Calcium type="float">58.0</Calcium>
 		<Iron type="float">3.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">39</_id>
 		<Name type="str">Barley</Name>
 		<Kcal type="int">354</Kcal>
@@ -584,8 +584,8 @@
 		<Calcium type="float">33.0</Calcium>
 		<Iron type="float">2.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">40</_id>
 		<Name type="str">Breadfruit</Name>
 		<Kcal type="int">103</Kcal>
@@ -599,8 +599,8 @@
 		<Calcium type="float">17.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">41</_id>
 		<Name type="str">Brioche</Name>
 		<Kcal type="int">349</Kcal>
@@ -614,8 +614,8 @@
 		<Calcium type="float">79.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">42</_id>
 		<Name type="str">Buckwheat</Name>
 		<Kcal type="int">343</Kcal>
@@ -629,8 +629,8 @@
 		<Calcium type="float">18.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">43</_id>
 		<Name type="str">Cornbread</Name>
 		<Kcal type="int">315</Kcal>
@@ -644,8 +644,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">2.3</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">44</_id>
 		<Name type="str">Croissant</Name>
 		<Kcal type="int">406</Kcal>
@@ -659,8 +659,8 @@
 		<Calcium type="float">56.0</Calcium>
 		<Iron type="float">3.3</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">45</_id>
 		<Name type="str">Crumpet</Name>
 		<Kcal type="int">153</Kcal>
@@ -674,8 +674,8 @@
 		<Calcium type="float">68.0</Calcium>
 		<Iron type="float">2.0</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">46</_id>
 		<Name type="str">Einkorn wheat</Name>
 		<Kcal type="int">336</Kcal>
@@ -689,8 +689,8 @@
 		<Calcium type="float">50.0</Calcium>
 		<Iron type="float">3.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">47</_id>
 		<Name type="str">Focaccia</Name>
 		<Kcal type="int">250</Kcal>
@@ -704,8 +704,8 @@
 		<Calcium type="float">69.0</Calcium>
 		<Iron type="float">2.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">48</_id>
 		<Name type="str">French toast</Name>
 		<Kcal type="int">232</Kcal>
@@ -719,8 +719,8 @@
 		<Calcium type="float">66.0</Calcium>
 		<Iron type="float">1.4</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">49</_id>
 		<Name type="str">Honey wheat bread</Name>
 		<Kcal type="int">250</Kcal>
@@ -734,8 +734,8 @@
 		<Calcium type="float">76.0</Calcium>
 		<Iron type="float">3.4</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">50</_id>
 		<Name type="str">Kamut</Name>
 		<Kcal type="int">337</Kcal>
@@ -749,8 +749,8 @@
 		<Calcium type="float">34.0</Calcium>
 		<Iron type="float">3.6</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">51</_id>
 		<Name type="str">Millet</Name>
 		<Kcal type="int">378</Kcal>
@@ -764,8 +764,8 @@
 		<Calcium type="float">8.0</Calcium>
 		<Iron type="float">4.7</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">52</_id>
 		<Name type="str">Naan</Name>
 		<Kcal type="int">360</Kcal>
@@ -779,8 +779,8 @@
 		<Calcium type="float">83.0</Calcium>
 		<Iron type="float">3.7</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">53</_id>
 		<Name type="str">Oat bread</Name>
 		<Kcal type="int">246</Kcal>
@@ -794,8 +794,8 @@
 		<Calcium type="float">64.0</Calcium>
 		<Iron type="float">3.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">54</_id>
 		<Name type="str">Pita bread</Name>
 		<Kcal type="int">275</Kcal>
@@ -809,8 +809,8 @@
 		<Calcium type="float">60.0</Calcium>
 		<Iron type="float">2.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">55</_id>
 		<Name type="str">Polenta</Name>
 		<Kcal type="int">82</Kcal>
@@ -824,8 +824,8 @@
 		<Calcium type="float">3.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">56</_id>
 		<Name type="str">Quinoa</Name>
 		<Kcal type="int">368</Kcal>
@@ -839,8 +839,8 @@
 		<Calcium type="float">47.0</Calcium>
 		<Iron type="float">4.6</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">57</_id>
 		<Name type="str">Rice flour brown</Name>
 		<Kcal type="int">364</Kcal>
@@ -854,8 +854,8 @@
 		<Calcium type="float">25.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">58</_id>
 		<Name type="str">Rice flour white</Name>
 		<Kcal type="int">366</Kcal>
@@ -869,8 +869,8 @@
 		<Calcium type="float">5.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">59</_id>
 		<Name type="str">Rice white cooked</Name>
 		<Kcal type="int">130</Kcal>
@@ -884,8 +884,8 @@
 		<Calcium type="float">9.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">60</_id>
 		<Name type="str">Rice brown cooked</Name>
 		<Kcal type="int">111</Kcal>
@@ -899,8 +899,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">61</_id>
 		<Name type="str">Spelt cooked</Name>
 		<Kcal type="int">123</Kcal>
@@ -914,8 +914,8 @@
 		<Calcium type="float">27.0</Calcium>
 		<Iron type="float">2.4</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">62</_id>
 		<Name type="str">Sourdough bread</Name>
 		<Kcal type="int">217</Kcal>
@@ -929,8 +929,8 @@
 		<Calcium type="float">53.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">63</_id>
 		<Name type="str">Soy flour</Name>
 		<Kcal type="int">387</Kcal>
@@ -944,8 +944,8 @@
 		<Calcium type="float">240.0</Calcium>
 		<Iron type="float">6.9</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">64</_id>
 		<Name type="str">Soybeans cooked</Name>
 		<Kcal type="int">173</Kcal>
@@ -959,8 +959,8 @@
 		<Calcium type="float">54.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">65</_id>
 		<Name type="str">Spelt raw</Name>
 		<Kcal type="int">338</Kcal>
@@ -974,8 +974,8 @@
 		<Calcium type="float">49.0</Calcium>
 		<Iron type="float">3.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">66</_id>
 		<Name type="str">Teff cooked</Name>
 		<Kcal type="int">101</Kcal>
@@ -989,8 +989,8 @@
 		<Calcium type="float">123.0</Calcium>
 		<Iron type="float">7.6</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">67</_id>
 		<Name type="str">Tortilla  corn</Name>
 		<Kcal type="int">218</Kcal>
@@ -1004,8 +1004,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">68</_id>
 		<Name type="str">Tortilla  flour</Name>
 		<Kcal type="int">298</Kcal>
@@ -1019,8 +1019,8 @@
 		<Calcium type="float">127.0</Calcium>
 		<Iron type="float">3.4</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">69</_id>
 		<Name type="str">Wheat bran</Name>
 		<Kcal type="int">216</Kcal>
@@ -1034,8 +1034,8 @@
 		<Calcium type="float">54.0</Calcium>
 		<Iron type="float">6.3</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">70</_id>
 		<Name type="str">Wheat germ</Name>
 		<Kcal type="int">361</Kcal>
@@ -1049,8 +1049,8 @@
 		<Calcium type="float">53.0</Calcium>
 		<Iron type="float">7.9</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">71</_id>
 		<Name type="str">Wheat  cooked</Name>
 		<Kcal type="int">124</Kcal>
@@ -1064,8 +1064,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.9</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">72</_id>
 		<Name type="str">Wheat  whole grain</Name>
 		<Kcal type="int">339</Kcal>
@@ -1079,8 +1079,8 @@
 		<Calcium type="float">34.0</Calcium>
 		<Iron type="float">3.2</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">73</_id>
 		<Name type="str">Whole-grain bread</Name>
 		<Kcal type="int">247</Kcal>
@@ -1094,8 +1094,8 @@
 		<Calcium type="float">54.0</Calcium>
 		<Iron type="float">2.7</Iron>
 		<TypeOfFood type="str">cereals and bread</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">74</_id>
 		<Name type="str">Anchovy</Name>
 		<Kcal type="int">210</Kcal>
@@ -1109,8 +1109,8 @@
 		<Calcium type="float">147.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">75</_id>
 		<Name type="str">Barracuda</Name>
 		<Kcal type="int">162</Kcal>
@@ -1124,8 +1124,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">76</_id>
 		<Name type="str">Bluefish</Name>
 		<Kcal type="int">124</Kcal>
@@ -1139,8 +1139,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">77</_id>
 		<Name type="str">Catfish</Name>
 		<Kcal type="int">105</Kcal>
@@ -1154,8 +1154,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">78</_id>
 		<Name type="str">Carp</Name>
 		<Kcal type="int">127</Kcal>
@@ -1169,8 +1169,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">79</_id>
 		<Name type="str">Cod</Name>
 		<Kcal type="int">82</Kcal>
@@ -1184,8 +1184,8 @@
 		<Calcium type="float">14.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">80</_id>
 		<Name type="str">Eel</Name>
 		<Kcal type="int">184</Kcal>
@@ -1199,8 +1199,8 @@
 		<Calcium type="float">18.0</Calcium>
 		<Iron type="float">1.3</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">81</_id>
 		<Name type="str">Flounder</Name>
 		<Kcal type="int">86</Kcal>
@@ -1214,8 +1214,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">82</_id>
 		<Name type="str">Grouper</Name>
 		<Kcal type="int">117</Kcal>
@@ -1229,8 +1229,8 @@
 		<Calcium type="float">28.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">83</_id>
 		<Name type="str">Haddock</Name>
 		<Kcal type="int">74</Kcal>
@@ -1244,8 +1244,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">84</_id>
 		<Name type="str">Halibut</Name>
 		<Kcal type="int">110</Kcal>
@@ -1259,8 +1259,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">85</_id>
 		<Name type="str">Herring</Name>
 		<Kcal type="int">217</Kcal>
@@ -1274,8 +1274,8 @@
 		<Calcium type="float">86.0</Calcium>
 		<Iron type="float">1.1</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">86</_id>
 		<Name type="str">Mackerel</Name>
 		<Kcal type="int">305</Kcal>
@@ -1289,8 +1289,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">87</_id>
 		<Name type="str">Mahi mahi</Name>
 		<Kcal type="int">97</Kcal>
@@ -1304,8 +1304,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">88</_id>
 		<Name type="str">Monkfish</Name>
 		<Kcal type="int">76</Kcal>
@@ -1319,8 +1319,8 @@
 		<Calcium type="float">18.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">89</_id>
 		<Name type="str">Perch</Name>
 		<Kcal type="int">96</Kcal>
@@ -1334,8 +1334,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">90</_id>
 		<Name type="str">Pike</Name>
 		<Kcal type="int">119</Kcal>
@@ -1349,8 +1349,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">91</_id>
 		<Name type="str">Pollock</Name>
 		<Kcal type="int">92</Kcal>
@@ -1364,8 +1364,8 @@
 		<Calcium type="float">17.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">92</_id>
 		<Name type="str">Rainbow trout</Name>
 		<Kcal type="int">119</Kcal>
@@ -1379,8 +1379,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.9</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">93</_id>
 		<Name type="str">Red snapper</Name>
 		<Kcal type="int">110</Kcal>
@@ -1394,8 +1394,8 @@
 		<Calcium type="float">34.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">94</_id>
 		<Name type="str">Sablefish</Name>
 		<Kcal type="int">196</Kcal>
@@ -1409,8 +1409,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">95</_id>
 		<Name type="str">Salmon</Name>
 		<Kcal type="int">208</Kcal>
@@ -1424,8 +1424,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">96</_id>
 		<Name type="str">Sardines</Name>
 		<Kcal type="int">208</Kcal>
@@ -1439,8 +1439,8 @@
 		<Calcium type="float">382.0</Calcium>
 		<Iron type="float">2.9</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">97</_id>
 		<Name type="str">Sea bass</Name>
 		<Kcal type="int">97</Kcal>
@@ -1454,8 +1454,8 @@
 		<Calcium type="float">15.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">98</_id>
 		<Name type="str">Sea bream</Name>
 		<Kcal type="int">129</Kcal>
@@ -1469,8 +1469,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">99</_id>
 		<Name type="str">Shad</Name>
 		<Kcal type="int">180</Kcal>
@@ -1484,8 +1484,8 @@
 		<Calcium type="float">120.0</Calcium>
 		<Iron type="float">2.0</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">100</_id>
 		<Name type="str">Shark</Name>
 		<Kcal type="int">125</Kcal>
@@ -1499,8 +1499,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">101</_id>
 		<Name type="str">Skipjack tuna</Name>
 		<Kcal type="int">144</Kcal>
@@ -1514,8 +1514,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">102</_id>
 		<Name type="str">Sole</Name>
 		<Kcal type="int">113</Kcal>
@@ -1529,8 +1529,8 @@
 		<Calcium type="float">24.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">103</_id>
 		<Name type="str">Spanish mackerel</Name>
 		<Kcal type="int">169</Kcal>
@@ -1544,8 +1544,8 @@
 		<Calcium type="float">30.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">104</_id>
 		<Name type="str">Squid</Name>
 		<Kcal type="int">92</Kcal>
@@ -1559,8 +1559,8 @@
 		<Calcium type="float">15.0</Calcium>
 		<Iron type="float">2.0</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">105</_id>
 		<Name type="str">Swordfish</Name>
 		<Kcal type="int">206</Kcal>
@@ -1574,8 +1574,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.6</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">106</_id>
 		<Name type="str">Tilefish</Name>
 		<Kcal type="int">128</Kcal>
@@ -1589,8 +1589,8 @@
 		<Calcium type="float">60.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">107</_id>
 		<Name type="str">Trout</Name>
 		<Kcal type="int">119</Kcal>
@@ -1604,8 +1604,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">108</_id>
 		<Name type="str">Tuna</Name>
 		<Kcal type="int">184</Kcal>
@@ -1619,8 +1619,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">109</_id>
 		<Name type="str">Whitefish</Name>
 		<Kcal type="int">97</Kcal>
@@ -1634,8 +1634,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">0.6</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">110</_id>
 		<Name type="str">Yellowfin tuna</Name>
 		<Kcal type="int">144</Kcal>
@@ -1649,8 +1649,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">111</_id>
 		<Name type="str">Yellowtail</Name>
 		<Kcal type="int">141</Kcal>
@@ -1664,8 +1664,8 @@
 		<Calcium type="float">30.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">112</_id>
 		<Name type="str">Zander</Name>
 		<Kcal type="int">90</Kcal>
@@ -1679,8 +1679,8 @@
 		<Calcium type="float">22.0</Calcium>
 		<Iron type="float">0.8</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">113</_id>
 		<Name type="str">Zebra fish</Name>
 		<Kcal type="int">88</Kcal>
@@ -1694,8 +1694,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fish</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">114</_id>
 		<Name type="str">Milk whole</Name>
 		<Kcal type="int">61</Kcal>
@@ -1709,8 +1709,8 @@
 		<Calcium type="float">120.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">115</_id>
 		<Name type="str">Yogurt plain</Name>
 		<Kcal type="int">59</Kcal>
@@ -1724,8 +1724,8 @@
 		<Calcium type="float">121.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">116</_id>
 		<Name type="str">Cheese cheddar</Name>
 		<Kcal type="int">402</Kcal>
@@ -1739,8 +1739,8 @@
 		<Calcium type="float">721.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">117</_id>
 		<Name type="str">Butter</Name>
 		<Kcal type="int">717</Kcal>
@@ -1754,8 +1754,8 @@
 		<Calcium type="float">24.0</Calcium>
 		<Iron type="float">0.02</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">118</_id>
 		<Name type="str">Cream heavy</Name>
 		<Kcal type="int">340</Kcal>
@@ -1769,8 +1769,8 @@
 		<Calcium type="float">22.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">119</_id>
 		<Name type="str">Sour cream</Name>
 		<Kcal type="int">198</Kcal>
@@ -1784,8 +1784,8 @@
 		<Calcium type="float">76.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">120</_id>
 		<Name type="str">Ice cream vanilla</Name>
 		<Kcal type="int">207</Kcal>
@@ -1799,8 +1799,8 @@
 		<Calcium type="float">84.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">121</_id>
 		<Name type="str">Cottage cheese</Name>
 		<Kcal type="int">98</Kcal>
@@ -1814,8 +1814,8 @@
 		<Calcium type="float">83.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">122</_id>
 		<Name type="str">Mozzarella cheese</Name>
 		<Kcal type="int">280</Kcal>
@@ -1829,8 +1829,8 @@
 		<Calcium type="float">731.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">123</_id>
 		<Name type="str">Feta cheese</Name>
 		<Kcal type="int">264</Kcal>
@@ -1844,8 +1844,8 @@
 		<Calcium type="float">493.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">124</_id>
 		<Name type="str">Blue cheese</Name>
 		<Kcal type="int">353</Kcal>
@@ -1859,8 +1859,8 @@
 		<Calcium type="float">528.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">125</_id>
 		<Name type="str">Milk skim</Name>
 		<Kcal type="int">35</Kcal>
@@ -1874,8 +1874,8 @@
 		<Calcium type="float">125.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">126</_id>
 		<Name type="str">Milk 2% fat</Name>
 		<Kcal type="int">50</Kcal>
@@ -1889,8 +1889,8 @@
 		<Calcium type="float">121.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">127</_id>
 		<Name type="str">Cream cheese</Name>
 		<Kcal type="int">342</Kcal>
@@ -1904,8 +1904,8 @@
 		<Calcium type="float">81.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">128</_id>
 		<Name type="str">Ricotta cheese</Name>
 		<Kcal type="int">174</Kcal>
@@ -1919,8 +1919,8 @@
 		<Calcium type="float">205.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">129</_id>
 		<Name type="str">Goat cheese</Name>
 		<Kcal type="int">364</Kcal>
@@ -1934,8 +1934,8 @@
 		<Calcium type="float">493.0</Calcium>
 		<Iron type="float">1.7</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">130</_id>
 		<Name type="str">Whipped cream</Name>
 		<Kcal type="int">257</Kcal>
@@ -1949,8 +1949,8 @@
 		<Calcium type="float">27.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">131</_id>
 		<Name type="str">Yogurt fruit flavored</Name>
 		<Kcal type="int">89</Kcal>
@@ -1964,8 +1964,8 @@
 		<Calcium type="float">116.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">132</_id>
 		<Name type="str">Buttermilk</Name>
 		<Kcal type="int">40</Kcal>
@@ -1979,8 +1979,8 @@
 		<Calcium type="float">116.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">133</_id>
 		<Name type="str">Evaporated milk</Name>
 		<Kcal type="int">134</Kcal>
@@ -1994,8 +1994,8 @@
 		<Calcium type="float">282.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">134</_id>
 		<Name type="str">Condensed milk</Name>
 		<Kcal type="int">321</Kcal>
@@ -2009,8 +2009,8 @@
 		<Calcium type="float">290.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">dairy</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">135</_id>
 		<Name type="str">Beef ground 85% lean meat  15% fat raw</Name>
 		<Kcal type="int">250</Kcal>
@@ -2024,8 +2024,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">2.28</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">136</_id>
 		<Name type="str">Beef ground 85% lean meat  15% fat cooked pan-broiled</Name>
 		<Kcal type="int">250</Kcal>
@@ -2039,10 +2039,10 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">2.28</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">137</_id>
-		<Name type="str">Beef round bottom round roast separable lean and fat trimmed to 0&quot; fat all grades cooked roasted</Name>
+		<Name type="str">Beef round bottom round roast separable lean and fat trimmed to 0&quot; fat foods grades cooked roasted</Name>
 		<Kcal type="int">164</Kcal>
 		<KJ type="int">686</KJ>
 		<Fat type="float">5.06</Fat>
@@ -2054,10 +2054,10 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.38</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">138</_id>
-		<Name type="str">Beef round bottom round roast separable lean and fat trimmed to 0&quot; fat all grades raw</Name>
+		<Name type="str">Beef round bottom round roast separable lean and fat trimmed to 0&quot; fat foods grades raw</Name>
 		<Kcal type="int">133</Kcal>
 		<KJ type="int">556</KJ>
 		<Fat type="float">4.18</Fat>
@@ -2069,10 +2069,10 @@
 		<Calcium type="float">9.0</Calcium>
 		<Iron type="float">2.17</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">139</_id>
-		<Name type="str">Beef round top round separable lean only trimmed to 0&quot; fat all grades cooked roasted</Name>
+		<Name type="str">Beef round top round separable lean only trimmed to 0&quot; fat foods grades cooked roasted</Name>
 		<Kcal type="int">166</Kcal>
 		<KJ type="int">695</KJ>
 		<Fat type="float">4.92</Fat>
@@ -2084,10 +2084,10 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">2.86</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">140</_id>
-		<Name type="str">Beef round top round separable lean only trimmed to 0&quot; fat all grades raw</Name>
+		<Name type="str">Beef round top round separable lean only trimmed to 0&quot; fat foods grades raw</Name>
 		<Kcal type="int">132</Kcal>
 		<KJ type="int">552</KJ>
 		<Fat type="float">3.86</Fat>
@@ -2099,10 +2099,10 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">2.79</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">141</_id>
-		<Name type="str">Beef shoulder pot roast or steak boneless separable lean only trimmed to 0&quot; fat all grades raw</Name>
+		<Name type="str">Beef shoulder pot roast or steak boneless separable lean only trimmed to 0&quot; fat foods grades raw</Name>
 		<Kcal type="int">144</Kcal>
 		<KJ type="int">603</KJ>
 		<Fat type="float">4.48</Fat>
@@ -2114,10 +2114,10 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">2.22</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">142</_id>
-		<Name type="str">Beef shoulder pot roast or steak boneless separable lean only trimmed to 0&quot; fat all grades cooked braised</Name>
+		<Name type="str">Beef shoulder pot roast or steak boneless separable lean only trimmed to 0&quot; fat foods grades cooked braised</Name>
 		<Kcal type="int">228</Kcal>
 		<KJ type="int">955</KJ>
 		<Fat type="float">10.98</Fat>
@@ -2129,10 +2129,10 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.29</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">143</_id>
-		<Name type="str">Beef chuck arm pot roast separable lean and fat trimmed to 0&quot; fat all grades raw</Name>
+		<Name type="str">Beef chuck arm pot roast separable lean and fat trimmed to 0&quot; fat foods grades raw</Name>
 		<Kcal type="int">167</Kcal>
 		<KJ type="int">699</KJ>
 		<Fat type="float">7.65</Fat>
@@ -2144,10 +2144,10 @@
 		<Calcium type="float">8.0</Calcium>
 		<Iron type="float">2.11</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">144</_id>
-		<Name type="str">Beef chuck arm pot roast separable lean and fat trimmed to 0&quot; fat all grades cooked braised</Name>
+		<Name type="str">Beef chuck arm pot roast separable lean and fat trimmed to 0&quot; fat foods grades cooked braised</Name>
 		<Kcal type="int">245</Kcal>
 		<KJ type="int">1024</KJ>
 		<Fat type="float">14.02</Fat>
@@ -2159,8 +2159,8 @@
 		<Calcium type="float">9.0</Calcium>
 		<Iron type="float">2.21</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">145</_id>
 		<Name type="str">Pork ground 96% lean  4% fat raw</Name>
 		<Kcal type="int">125</Kcal>
@@ -2174,8 +2174,8 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">1.06</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">146</_id>
 		<Name type="str">Sirloin steak</Name>
 		<Kcal type="int">271</Kcal>
@@ -2189,8 +2189,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">147</_id>
 		<Name type="str">Sausage</Name>
 		<Kcal type="int">301</Kcal>
@@ -2204,8 +2204,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.5</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">148</_id>
 		<Name type="str">Shoulder roast</Name>
 		<Kcal type="int">263</Kcal>
@@ -2219,8 +2219,8 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">149</_id>
 		<Name type="str">Strip steak</Name>
 		<Kcal type="int">250</Kcal>
@@ -2234,8 +2234,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.1</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">150</_id>
 		<Name type="str">T-bone steak</Name>
 		<Kcal type="int">250</Kcal>
@@ -2249,8 +2249,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.1</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">151</_id>
 		<Name type="str">Tri-tip roast</Name>
 		<Kcal type="int">250</Kcal>
@@ -2264,8 +2264,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.1</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">152</_id>
 		<Name type="str">Top loin steak</Name>
 		<Kcal type="int">250</Kcal>
@@ -2279,8 +2279,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.1</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">153</_id>
 		<Name type="str">Veal chop</Name>
 		<Kcal type="int">225</Kcal>
@@ -2294,8 +2294,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">154</_id>
 		<Name type="str">Veal cutlet</Name>
 		<Kcal type="int">225</Kcal>
@@ -2309,8 +2309,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">155</_id>
 		<Name type="str">Veal roast</Name>
 		<Kcal type="int">225</Kcal>
@@ -2324,8 +2324,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">156</_id>
 		<Name type="str">Veal shank</Name>
 		<Kcal type="int">225</Kcal>
@@ -2339,8 +2339,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">157</_id>
 		<Name type="str">Venison steak</Name>
 		<Kcal type="int">133</Kcal>
@@ -2354,8 +2354,8 @@
 		<Calcium type="float">3.0</Calcium>
 		<Iron type="float">3.0</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">158</_id>
 		<Name type="str">Wild boar chop</Name>
 		<Kcal type="int">197</Kcal>
@@ -2369,8 +2369,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">159</_id>
 		<Name type="str">Wild boar roast</Name>
 		<Kcal type="int">197</Kcal>
@@ -2384,8 +2384,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">160</_id>
 		<Name type="str">Wild boar ribs</Name>
 		<Kcal type="int">197</Kcal>
@@ -2399,8 +2399,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">1.6</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">161</_id>
 		<Name type="str">Wild boar sausage</Name>
 		<Kcal type="int">301</Kcal>
@@ -2414,8 +2414,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">2.5</Iron>
 		<TypeOfFood type="str">meat</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">162</_id>
 		<Name type="str">Apple</Name>
 		<Kcal type="int">52</Kcal>
@@ -2429,8 +2429,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">163</_id>
 		<Name type="str">Banana</Name>
 		<Kcal type="int">89</Kcal>
@@ -2444,8 +2444,8 @@
 		<Calcium type="float">5.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">164</_id>
 		<Name type="str">Orange</Name>
 		<Kcal type="int">47</Kcal>
@@ -2459,8 +2459,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">165</_id>
 		<Name type="str">Kiwi</Name>
 		<Kcal type="int">61</Kcal>
@@ -2474,8 +2474,8 @@
 		<Calcium type="float">34.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">166</_id>
 		<Name type="str">Pineapple</Name>
 		<Kcal type="int">50</Kcal>
@@ -2489,8 +2489,8 @@
 		<Calcium type="float">13.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">167</_id>
 		<Name type="str">Watermelon</Name>
 		<Kcal type="int">30</Kcal>
@@ -2504,8 +2504,8 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">168</_id>
 		<Name type="str">Mango</Name>
 		<Kcal type="int">60</Kcal>
@@ -2519,8 +2519,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">169</_id>
 		<Name type="str">Grapes</Name>
 		<Kcal type="int">69</Kcal>
@@ -2534,8 +2534,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">170</_id>
 		<Name type="str">Pear</Name>
 		<Kcal type="int">57</Kcal>
@@ -2549,8 +2549,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">171</_id>
 		<Name type="str">Peach</Name>
 		<Kcal type="int">39</Kcal>
@@ -2564,8 +2564,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">172</_id>
 		<Name type="str">Plum</Name>
 		<Kcal type="int">46</Kcal>
@@ -2579,8 +2579,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">173</_id>
 		<Name type="str">Apricot</Name>
 		<Kcal type="int">48</Kcal>
@@ -2594,8 +2594,8 @@
 		<Calcium type="float">13.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">174</_id>
 		<Name type="str">Cherry</Name>
 		<Kcal type="int">50</Kcal>
@@ -2609,8 +2609,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">175</_id>
 		<Name type="str">Blueberry</Name>
 		<Kcal type="int">57</Kcal>
@@ -2624,8 +2624,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">176</_id>
 		<Name type="str">Raspberry</Name>
 		<Kcal type="int">52</Kcal>
@@ -2639,8 +2639,8 @@
 		<Calcium type="float">25.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">177</_id>
 		<Name type="str">Strawberry</Name>
 		<Kcal type="int">32</Kcal>
@@ -2654,8 +2654,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">178</_id>
 		<Name type="str">Blackberry</Name>
 		<Kcal type="int">43</Kcal>
@@ -2669,8 +2669,8 @@
 		<Calcium type="float">32.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">179</_id>
 		<Name type="str">Cranberry</Name>
 		<Kcal type="int">46</Kcal>
@@ -2684,8 +2684,8 @@
 		<Calcium type="float">8.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">180</_id>
 		<Name type="str">Grapefruit</Name>
 		<Kcal type="int">42</Kcal>
@@ -2699,8 +2699,8 @@
 		<Calcium type="float">22.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">181</_id>
 		<Name type="str">Lemon</Name>
 		<Kcal type="int">29</Kcal>
@@ -2714,8 +2714,8 @@
 		<Calcium type="float">26.0</Calcium>
 		<Iron type="float">0.5</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">182</_id>
 		<Name type="str">Lime</Name>
 		<Kcal type="int">30</Kcal>
@@ -2729,8 +2729,8 @@
 		<Calcium type="float">33.0</Calcium>
 		<Iron type="float">0.6</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">183</_id>
 		<Name type="str">Mango</Name>
 		<Kcal type="int">60</Kcal>
@@ -2744,8 +2744,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">184</_id>
 		<Name type="str">Nectarine</Name>
 		<Kcal type="int">44</Kcal>
@@ -2759,8 +2759,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">185</_id>
 		<Name type="str">Orange</Name>
 		<Kcal type="int">47</Kcal>
@@ -2774,8 +2774,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">186</_id>
 		<Name type="str">Papaya</Name>
 		<Kcal type="int">43</Kcal>
@@ -2789,8 +2789,8 @@
 		<Calcium type="float">20.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">187</_id>
 		<Name type="str">Passion fruit</Name>
 		<Kcal type="int">97</Kcal>
@@ -2804,8 +2804,8 @@
 		<Calcium type="float">12.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">188</_id>
 		<Name type="str">Peach</Name>
 		<Kcal type="int">39</Kcal>
@@ -2819,8 +2819,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">189</_id>
 		<Name type="str">Pear</Name>
 		<Kcal type="int">57</Kcal>
@@ -2834,8 +2834,8 @@
 		<Calcium type="float">11.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">190</_id>
 		<Name type="str">Pineapple</Name>
 		<Kcal type="int">50</Kcal>
@@ -2849,8 +2849,8 @@
 		<Calcium type="float">13.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">191</_id>
 		<Name type="str">Plum</Name>
 		<Kcal type="int">46</Kcal>
@@ -2864,8 +2864,8 @@
 		<Calcium type="float">6.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">192</_id>
 		<Name type="str">Pomegranate</Name>
 		<Kcal type="int">83</Kcal>
@@ -2879,8 +2879,8 @@
 		<Calcium type="float">10.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">193</_id>
 		<Name type="str">Quince</Name>
 		<Kcal type="int">57</Kcal>
@@ -2894,8 +2894,8 @@
 		<Calcium type="float">17.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">194</_id>
 		<Name type="str">Raspberry</Name>
 		<Kcal type="int">52</Kcal>
@@ -2909,8 +2909,8 @@
 		<Calcium type="float">25.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">195</_id>
 		<Name type="str">Redcurrant</Name>
 		<Kcal type="int">56</Kcal>
@@ -2924,8 +2924,8 @@
 		<Calcium type="float">33.0</Calcium>
 		<Iron type="float">1.0</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">196</_id>
 		<Name type="str">Strawberry</Name>
 		<Kcal type="int">32</Kcal>
@@ -2939,8 +2939,8 @@
 		<Calcium type="float">16.0</Calcium>
 		<Iron type="float">0.4</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">197</_id>
 		<Name type="str">Tangerine</Name>
 		<Kcal type="int">53</Kcal>
@@ -2954,8 +2954,8 @@
 		<Calcium type="float">37.0</Calcium>
 		<Iron type="float">0.1</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">198</_id>
 		<Name type="str">Ugli fruit</Name>
 		<Kcal type="int">50</Kcal>
@@ -2969,8 +2969,8 @@
 		<Calcium type="float">30.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">199</_id>
 		<Name type="str">Watermelon</Name>
 		<Kcal type="int">30</Kcal>
@@ -2984,8 +2984,8 @@
 		<Calcium type="float">7.0</Calcium>
 		<Iron type="float">0.2</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">200</_id>
 		<Name type="str">Yuzu</Name>
 		<Kcal type="int">38</Kcal>
@@ -2999,8 +2999,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">0.3</Iron>
 		<TypeOfFood type="str">fruits</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">201</_id>
 		<Name type="str">Milky Way</Name>
 		<Kcal type="int">464</Kcal>
@@ -3014,8 +3014,8 @@
 		<Calcium type="float">189.0</Calcium>
 		<Iron type="float">1.2</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">202</_id>
 		<Name type="str">Twix</Name>
 		<Kcal type="int">483</Kcal>
@@ -3029,8 +3029,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">1.7</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">203</_id>
 		<Name type="str">Snickers</Name>
 		<Kcal type="int">483</Kcal>
@@ -3044,8 +3044,8 @@
 		<Calcium type="float">52.0</Calcium>
 		<Iron type="float">2.7</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">204</_id>
 		<Name type="str">Reese's Peanut Butter Cups</Name>
 		<Kcal type="int">515</Kcal>
@@ -3059,8 +3059,8 @@
 		<Calcium type="float">40.0</Calcium>
 		<Iron type="float">2.1</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">205</_id>
 		<Name type="str">Kit Kat</Name>
 		<Kcal type="int">524</Kcal>
@@ -3074,8 +3074,8 @@
 		<Calcium type="float">77.0</Calcium>
 		<Iron type="float">2.4</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">206</_id>
 		<Name type="str">Skittles</Name>
 		<Kcal type="int">406</Kcal>
@@ -3089,8 +3089,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.9</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">207</_id>
 		<Name type="str">Haribo Goldbears</Name>
 		<Kcal type="int">342</Kcal>
@@ -3104,8 +3104,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.0</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">208</_id>
 		<Name type="str">Gummy Worms</Name>
 		<Kcal type="int">342</Kcal>
@@ -3119,8 +3119,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.0</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">209</_id>
 		<Name type="str">M&amp;Ms</Name>
 		<Kcal type="int">491</Kcal>
@@ -3134,8 +3134,8 @@
 		<Calcium type="float">51.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">210</_id>
 		<Name type="str">Reese's Pieces</Name>
 		<Kcal type="int">497</Kcal>
@@ -3149,8 +3149,8 @@
 		<Calcium type="float">38.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">211</_id>
 		<Name type="str">Hershey's Milk Chocolate Bar</Name>
 		<Kcal type="int">546</Kcal>
@@ -3164,8 +3164,8 @@
 		<Calcium type="float">71.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">212</_id>
 		<Name type="str">Hershey's Cookies 'n' Creme</Name>
 		<Kcal type="int">507</Kcal>
@@ -3179,8 +3179,8 @@
 		<Calcium type="float">250.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">213</_id>
 		<Name type="str">Ferrero Rocher</Name>
 		<Kcal type="int">600</Kcal>
@@ -3194,8 +3194,8 @@
 		<Calcium type="float">130.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">214</_id>
 		<Name type="str">Lindt Lindor Milk Chocolate Truffles</Name>
 		<Kcal type="int">550</Kcal>
@@ -3209,8 +3209,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">215</_id>
 		<Name type="str">Mars</Name>
 		<Kcal type="int">459</Kcal>
@@ -3224,8 +3224,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">216</_id>
 		<Name type="str">Milka Chocolate</Name>
 		<Kcal type="int">534</Kcal>
@@ -3239,8 +3239,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.0</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">217</_id>
 		<Name type="str">Almond Joy</Name>
 		<Kcal type="int">491</Kcal>
@@ -3254,8 +3254,8 @@
 		<Calcium type="float">188.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">218</_id>
 		<Name type="str">Baby Ruth</Name>
 		<Kcal type="int">459</Kcal>
@@ -3269,8 +3269,8 @@
 		<Calcium type="float">0.0</Calcium>
 		<Iron type="float">0.7</Iron>
 		<TypeOfFood type="str">chocolates and sweets</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">219</_id>
 		<Name type="str">Lentils</Name>
 		<Kcal type="int">116</Kcal>
@@ -3284,8 +3284,8 @@
 		<Calcium type="float">56.0</Calcium>
 		<Iron type="float">3.3</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">220</_id>
 		<Name type="str">Chickpeas</Name>
 		<Kcal type="int">364</Kcal>
@@ -3299,8 +3299,8 @@
 		<Calcium type="float">105.0</Calcium>
 		<Iron type="float">6.2</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">221</_id>
 		<Name type="str">Kidney beans</Name>
 		<Kcal type="int">127</Kcal>
@@ -3314,8 +3314,8 @@
 		<Calcium type="float">403.0</Calcium>
 		<Iron type="float">2.6</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">222</_id>
 		<Name type="str">Black beans</Name>
 		<Kcal type="int">132</Kcal>
@@ -3329,8 +3329,8 @@
 		<Calcium type="float">1139.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">223</_id>
 		<Name type="str">Navy beans</Name>
 		<Kcal type="int">127</Kcal>
@@ -3344,8 +3344,8 @@
 		<Calcium type="float">403.0</Calcium>
 		<Iron type="float">2.6</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">224</_id>
 		<Name type="str">Pinto beans</Name>
 		<Kcal type="int">143</Kcal>
@@ -3359,8 +3359,8 @@
 		<Calcium type="float">475.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">225</_id>
 		<Name type="str">Mung beans</Name>
 		<Kcal type="int">347</Kcal>
@@ -3374,8 +3374,8 @@
 		<Calcium type="float">195.0</Calcium>
 		<Iron type="float">5.7</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">226</_id>
 		<Name type="str">Adzuki beans</Name>
 		<Kcal type="int">128</Kcal>
@@ -3389,8 +3389,8 @@
 		<Calcium type="float">122.0</Calcium>
 		<Iron type="float">4.0</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">227</_id>
 		<Name type="str">Lima beans</Name>
 		<Kcal type="int">115</Kcal>
@@ -3404,8 +3404,8 @@
 		<Calcium type="float">240.0</Calcium>
 		<Iron type="float">1.8</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">228</_id>
 		<Name type="str">Fava beans</Name>
 		<Kcal type="int">88</Kcal>
@@ -3419,8 +3419,8 @@
 		<Calcium type="float">186.0</Calcium>
 		<Iron type="float">2.8</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">229</_id>
 		<Name type="str">Soybeans</Name>
 		<Kcal type="int">147</Kcal>
@@ -3434,8 +3434,8 @@
 		<Calcium type="float">277.0</Calcium>
 		<Iron type="float">6.2</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">230</_id>
 		<Name type="str">Lentil sprouts</Name>
 		<Kcal type="int">106</Kcal>
@@ -3449,8 +3449,8 @@
 		<Calcium type="float">69.0</Calcium>
 		<Iron type="float">3.3</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">231</_id>
 		<Name type="str">Chickpea sprouts</Name>
 		<Kcal type="int">122</Kcal>
@@ -3464,8 +3464,8 @@
 		<Calcium type="float">115.0</Calcium>
 		<Iron type="float">2.2</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">232</_id>
 		<Name type="str">Peas</Name>
 		<Kcal type="int">81</Kcal>
@@ -3479,8 +3479,8 @@
 		<Calcium type="float">31.0</Calcium>
 		<Iron type="float">1.5</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-	<item type="dict">
+	</food>
+	<food type="dict">
 		<_id type="int">233</_id>
 		<Name type="str">Green beans</Name>
 		<Kcal type="int">31</Kcal>
@@ -3494,5 +3494,5 @@
 		<Calcium type="float">209.0</Calcium>
 		<Iron type="float">1.0</Iron>
 		<TypeOfFood type="str">legumes</TypeOfFood>
-	</item>
-</all>
+	</food>
+</foods>

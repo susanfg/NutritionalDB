@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<all>
-	<item type="dict">
+<patients>
+	<patient type="dict">
 		<_id type="str">02358124Z</_id>
 		<Name type="str">Carmen</Name>
 		<LastNames type="str">Ruiz Soto</LastNames>
@@ -12,8 +12,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">44</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">05622134W</_id>
 		<Name type="str">Pilar</Name>
 		<LastNames type="str">Ortega Jimenez</LastNames>
@@ -25,8 +25,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">27</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">09798203L</_id>
 		<Name type="str">Manuel</Name>
 		<LastNames type="str">Lopez Aguilar</LastNames>
@@ -38,8 +38,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">27</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">11278952Q</_id>
 		<Name type="str">Miguel</Name>
 		<LastNames type="str">Gonzalez Ramos</LastNames>
@@ -51,8 +51,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">36</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">11933112X</_id>
 		<Name type="str">Raul</Name>
 		<LastNames type="str">Diaz Saez</LastNames>
@@ -64,8 +64,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">48</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">13268945G</_id>
 		<Name type="str">Laura</Name>
 		<LastNames type="str">Fernandez Castro</LastNames>
@@ -77,8 +77,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">21</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">15606728K</_id>
 		<Name type="str">Francisco</Name>
 		<LastNames type="str">Hernandez Lopez</LastNames>
@@ -90,8 +90,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">32</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">16895033S</_id>
 		<Name type="str">Juan</Name>
 		<LastNames type="str">Sanz Rodriguez</LastNames>
@@ -103,8 +103,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">36</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">17163483N</_id>
 		<Name type="str">Eduardo</Name>
 		<LastNames type="str">Perez Alonso</LastNames>
@@ -116,8 +116,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">24</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">17891224C</_id>
 		<Name type="str">Carlos</Name>
 		<LastNames type="str">Gomez Romero</LastNames>
@@ -129,8 +129,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">49</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">18759113T</_id>
 		<Name type="str">Ines</Name>
 		<LastNames type="str">Castillo Romero</LastNames>
@@ -142,8 +142,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">43</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">22466137X</_id>
 		<Name type="str">Ana</Name>
 		<LastNames type="str">Moreno Lopez</LastNames>
@@ -155,8 +155,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">3</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">22582895L</_id>
 		<Name type="str">Pedro</Name>
 		<LastNames type="str">Hernandez Ortiz</LastNames>
@@ -168,8 +168,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">2</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">28432375Y</_id>
 		<Name type="str">Elena</Name>
 		<LastNames type="str">Gonzalez Perez</LastNames>
@@ -181,8 +181,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">11</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">29366620W</_id>
 		<Name type="str">Adrian</Name>
 		<LastNames type="str">Diaz Alvarez</LastNames>
@@ -194,8 +194,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">19</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">30111234M</_id>
 		<Name type="str">Luis</Name>
 		<LastNames type="str">Martin Sanchez</LastNames>
@@ -207,8 +207,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">10</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">30179415M</_id>
 		<Name type="str">Marta</Name>
 		<LastNames type="str">Hernandez Rodriguez</LastNames>
@@ -220,8 +220,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">49</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">32399118L</_id>
 		<Name type="str">Jose</Name>
 		<LastNames type="str">Gonzalez Marin</LastNames>
@@ -233,8 +233,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">20</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">32849681T</_id>
 		<Name type="str">Carlos</Name>
 		<LastNames type="str">Gonzalez Ruiz</LastNames>
@@ -246,8 +246,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">17</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">34773520L</_id>
 		<Name type="str">Miguel</Name>
 		<LastNames type="str">Perez Soto</LastNames>
@@ -259,8 +259,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">50</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">35281816G</_id>
 		<Name type="str">Manuela</Name>
 		<LastNames type="str">Castro Rivas</LastNames>
@@ -272,8 +272,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">9</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">35759399J</_id>
 		<Name type="str">Antonio</Name>
 		<LastNames type="str">Torres Gonzalez</LastNames>
@@ -285,8 +285,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">12</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">40418220T</_id>
 		<Name type="str">Raul</Name>
 		<LastNames type="str">Martin Rodriguez</LastNames>
@@ -298,8 +298,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">43</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">41553970P</_id>
 		<Name type="str">Cristina</Name>
 		<LastNames type="str">Garcia Molina</LastNames>
@@ -311,8 +311,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">43</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">41751802V</_id>
 		<Name type="str">Ines</Name>
 		<LastNames type="str">Lopez Garcia</LastNames>
@@ -324,8 +324,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">34</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">42013944G</_id>
 		<Name type="str">Manuel</Name>
 		<LastNames type="str">Jimenez Ruiz</LastNames>
@@ -337,8 +337,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">36</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">50311250Q</_id>
 		<Name type="str">Maria</Name>
 		<LastNames type="str">Perez Moreno</LastNames>
@@ -350,8 +350,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">6</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">52173167Z</_id>
 		<Name type="str">Carmen</Name>
 		<LastNames type="str">Ruiz Ortega</LastNames>
@@ -363,8 +363,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">15</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">53646962X</_id>
 		<Name type="str">Laura</Name>
 		<LastNames type="str">Castillo Leon</LastNames>
@@ -376,8 +376,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">6</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">57070477D</_id>
 		<Name type="str">Javier</Name>
 		<LastNames type="str">Rodriguez Sanchez</LastNames>
@@ -389,8 +389,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">43</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">57685331G</_id>
 		<Name type="str">Julia</Name>
 		<LastNames type="str">Vega Diaz</LastNames>
@@ -402,8 +402,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">34</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">65092950E</_id>
 		<Name type="str">David</Name>
 		<LastNames type="str">Lopez Saez</LastNames>
@@ -415,8 +415,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">39</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">67475255F</_id>
 		<Name type="str">Carmen</Name>
 		<LastNames type="str">Sanchez Garcia</LastNames>
@@ -428,8 +428,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">4</Doctor>
 		<CurrentDiet type="int">48</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">67704860L</_id>
 		<Name type="str">Isabel</Name>
 		<LastNames type="str">Garcia Romero</LastNames>
@@ -441,8 +441,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">2</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">67716439N</_id>
 		<Name type="str">Sara</Name>
 		<LastNames type="str">Martinez Ortiz</LastNames>
@@ -454,8 +454,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">44</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">68220472P</_id>
 		<Name type="str">Francisco</Name>
 		<LastNames type="str">Gomez Fernandez</LastNames>
@@ -467,8 +467,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">36</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">75294058F</_id>
 		<Name type="str">Maria</Name>
 		<LastNames type="str">Garcia Hernandez</LastNames>
@@ -480,8 +480,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">18</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">77242812H</_id>
 		<Name type="str">Raul</Name>
 		<LastNames type="str">Gomez Torres</LastNames>
@@ -493,8 +493,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">4</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">78858624G</_id>
 		<Name type="str">Sofia</Name>
 		<LastNames type="str">Ramos Ortiz</LastNames>
@@ -506,8 +506,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">13</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">79008423B</_id>
 		<Name type="str">Antonio</Name>
 		<LastNames type="str">Lopez Fernandez</LastNames>
@@ -519,8 +519,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">12</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">79192913X</_id>
 		<Name type="str">Isabel</Name>
 		<LastNames type="str">Garcia Moreno</LastNames>
@@ -532,8 +532,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">4</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">79424390S</_id>
 		<Name type="str">Pedro</Name>
 		<LastNames type="str">Gonzalez Castro</LastNames>
@@ -545,8 +545,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">9</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">82027467B</_id>
 		<Name type="str">Ana</Name>
 		<LastNames type="str">Rodriguez Ramirez</LastNames>
@@ -558,8 +558,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">7</Doctor>
 		<CurrentDiet type="int">13</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">82749166S</_id>
 		<Name type="str">Sofia</Name>
 		<LastNames type="str">Perez Garcia</LastNames>
@@ -571,8 +571,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">6</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">83211085L</_id>
 		<Name type="str">Marta</Name>
 		<LastNames type="str">Diaz Lopez</LastNames>
@@ -584,8 +584,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">8</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">83833757G</_id>
 		<Name type="str">Javier</Name>
 		<LastNames type="str">Fernandez Martinez</LastNames>
@@ -597,8 +597,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">25</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">88182185T</_id>
 		<Name type="str">Silvia</Name>
 		<LastNames type="str">Perez Rodriguez</LastNames>
@@ -610,8 +610,8 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">3</Doctor>
 		<CurrentDiet type="int">9</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">90527143D</_id>
 		<Name type="str">Rafael</Name>
 		<LastNames type="str">Garcia Sanchez</LastNames>
@@ -623,8 +623,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">6</Doctor>
 		<CurrentDiet type="int">41</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">92837275K</_id>
 		<Name type="str">Pablo</Name>
 		<LastNames type="str">Martinez Castro</LastNames>
@@ -636,8 +636,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">1</Doctor>
 		<CurrentDiet type="int">22</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">95392730N</_id>
 		<Name type="str">Jose</Name>
 		<LastNames type="str">Gonzalez Ortiz</LastNames>
@@ -649,8 +649,8 @@
 		<Intolerances type="int">1</Intolerances>
 		<Doctor type="int">2</Doctor>
 		<CurrentDiet type="int">29</CurrentDiet>
-	</item>
-	<item type="dict">
+	</patient>
+	<patient type="dict">
 		<_id type="str">98972981H</_id>
 		<Name type="str">Lucia</Name>
 		<LastNames type="str">Garcia Sanchez</LastNames>
@@ -662,5 +662,5 @@
 		<Intolerances type="int">0</Intolerances>
 		<Doctor type="int">5</Doctor>
 		<CurrentDiet type="int">17</CurrentDiet>
-	</item>
-</all>
+	</patient>
+</patients>

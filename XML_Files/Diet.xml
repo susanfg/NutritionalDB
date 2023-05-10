@@ -1,1803 +1,1803 @@
 <?xml version="1.0" ?>
-<all>
-	<item type="dict">
+<diets>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">1</_id>
 		<Description type="str">Dieta baja en grasas</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">2</_id>
 		<Description type="str">Dieta sin lactosa para veganos</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">3</_id>
 		<Description type="str">Dieta rica en proteinas para deportistas</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">4</_id>
 		<Description type="str">Dieta vegetariana equilibrada</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">5</_id>
 		<Description type="str">Dieta sin gluten para ninos</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">6</_id>
 		<Description type="str">Dieta cetogenica para adultos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">7</_id>
 		<Description type="str">Dieta rica en fibra para mejorar la digestion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">8</_id>
 		<Description type="str">Dieta para diabeticos tipo 2</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">9</_id>
 		<Description type="str">Dieta para reducir el colesterol</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">10</_id>
 		<Description type="str">Dieta detox para eliminar toxinas</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">11</_id>
 		<Description type="str">Dieta equilibrada para mantener el peso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">12</_id>
 		<Description type="str">Dieta sin azucar para cuidar la piel</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">13</_id>
 		<Description type="str">Dieta antiinflamatoria para mejorar la salud</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">14</_id>
 		<Description type="str">Dieta sin sal para mejorar la circulacion</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">15</_id>
 		<Description type="str">Dieta para aumentar la masa muscular</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">16</_id>
 		<Description type="str">Dieta para reducir la ansiedad</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">17</_id>
 		<Description type="str">Dieta sin carbohidratos para adelgazar rapido</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">18</_id>
 		<Description type="str">Dieta rica en vitaminas para fortalecer el sistema inmunologico</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">19</_id>
 		<Description type="str">Dieta sin carne para cuidar el medio ambiente</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">20</_id>
 		<Description type="str">Dieta para mejorar la salud intestinal</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">21</_id>
 		<Description type="str">Dieta para reducir la inflamacion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">22</_id>
 		<Description type="str">Dieta sin cafeina para mejorar el sueno</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">23</_id>
 		<Description type="str">Dieta para mejorar la salud del corazon</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">24</_id>
 		<Description type="str">Dieta para aumentar la energia</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">25</_id>
 		<Description type="str">Dieta para fortalecer los huesos</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">26</_id>
 		<Description type="str">Dieta sin lacteos para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">27</_id>
 		<Description type="str">Dieta para reducir el estres</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">28</_id>
 		<Description type="str">Dieta para mejorar la concentracion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">29</_id>
 		<Description type="str">Dieta sin frutos secos para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">30</_id>
 		<Description type="str">Dieta para mejorar la salud mental</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">31</_id>
 		<Description type="str">Dieta para aliviar la migrana</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">32</_id>
 		<Description type="str">Dieta sin soja para aliviar alergias</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">33</_id>
 		<Description type="str">Dieta para mejorar la salud de la piel</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">34</_id>
 		<Description type="str">Dieta para mejorar la salud ocular</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">35</_id>
 		<Description type="str">Dieta para aliviar la artritis</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">36</_id>
 		<Description type="str">Dieta para aliviar el dolor menstrual</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">37</_id>
 		<Description type="str">Dieta sin gluten para celiacos</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">38</_id>
 		<Description type="str">Dieta para mejorar la salud del cerebro</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">39</_id>
 		<Description type="str">Dieta para reducir el acne</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">40</_id>
 		<Description type="str">Dieta para mejorar la circulacion sanguinea</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">41</_id>
 		<Description type="str">Dieta para mejorar la digestion</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">42</_id>
 		<Description type="str">Dieta para mejorar la memoria</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">43</_id>
 		<Description type="str">Dieta sin histamina para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">44</_id>
 		<Description type="str">Dieta para reducir la hipertension</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">45</_id>
 		<Description type="str">Dieta para mejorar la salud respiratoria</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">46</_id>
 		<Description type="str">Dieta sin trigo para aliviar alergias</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">47</_id>
 		<Description type="str">Dieta para mejorar la salud del higado</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">48</_id>
 		<Description type="str">Dieta para reducir la hinchazon abdominal</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">49</_id>
 		<Description type="str">Dieta para mejorar la salud renal</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">50</_id>
 		<Description type="str">Dieta sin sulfitos para aliviar alergias</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">51</_id>
 		<Description type="str">Dieta para mejorar la salud bucal</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">52</_id>
 		<Description type="str">Dieta para aliviar el dolor de espalda</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">53</_id>
 		<Description type="str">Dieta para mejorar la salud de las articulaciones</Description>
 		<Creator type="int">2</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">54</_id>
 		<Description type="str">Dieta para reducir la retencion de liquidos</Description>
 		<Creator type="int">1</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">55</_id>
 		<Description type="str">Dieta para mejorar la salud del sistema nervioso</Description>
 		<Creator type="int">3</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">56</_id>
 		<Description type="str">Dieta sin maiz para aliviar alergias</Description>
 		<Creator type="int">7</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">57</_id>
 		<Description type="str">Dieta para mejorar la salud osea</Description>
 		<Creator type="int">4</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">58</_id>
 		<Description type="str">Dieta para aliviar la depresion</Description>
 		<Creator type="int">5</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">59</_id>
 		<Description type="str">Dieta para mejorar la salud de los rinones</Description>
 		<Creator type="int">6</Creator>
-	</item>
-	<item type="dict">
+	</diet>
+	<diet type="dict">
 		<_id type="int">60</_id>
 		<Description type="str">Dieta hipercalorica</Description>
 		<Creator type="int">5</Creator>
-	</item>
-</all>
+	</diet>
+</diets>

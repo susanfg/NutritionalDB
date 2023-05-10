@@ -1,38 +1,38 @@
 <?xml version="1.0" ?>
-<all>
-	<item type="dict">
+<nutritionists>
+	<nutritionist type="dict">
 		<_id type="int">1</_id>
 		<FullName type="str">Pablo Moreno Garcia-Espina</FullName>
 		<Speciality type="str">Deporte</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">2</_id>
 		<FullName type="str">Susana Rocio Fernandez Giaccomassi</FullName>
 		<Speciality type="str">Descenso</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">3</_id>
 		<FullName type="str">Ismael Navas Delgado</FullName>
 		<Speciality type="str">Deporte</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">4</_id>
 		<FullName type="str">Antonio Rodriguez Horcas</FullName>
 		<Speciality type="str">Ascenso</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">5</_id>
 		<FullName type="str">Cecilia Gonzalez Perez</FullName>
 		<Speciality type="str">Vegetarianismo</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">6</_id>
 		<FullName type="str">Pablo Daniel Bouzon</FullName>
 		<Speciality type="str">Descenso</Speciality>
-	</item>
-	<item type="dict">
+	</nutritionist>
+	<nutritionist type="dict">
 		<_id type="int">7</_id>
 		<FullName type="str">Maria Ines Paez Bueno</FullName>
 		<Speciality type="str">Intolerancias</Speciality>
-	</item>
-</all>
+	</nutritionist>
+</nutritionists>
